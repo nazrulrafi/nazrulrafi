@@ -62,6 +62,7 @@ I am open to **remote roles, freelance projects, and long-term collaborations**.
 
 - 💼 GitHub: https://github.com/nazrulrafi  
 - 🌐 Portfolio: https://nazrulrafi.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/nazrul-rafi/  
 - 📧 Email: nazrulrafi.bd@gmail.com  
 
 ---
