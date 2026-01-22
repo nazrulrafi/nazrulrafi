@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nazrul Rafi
 
-I’m a **Full Stack Web Developer** specializing in **WordPress, React, Next.js, and Laravel**. I build **high-performance, scalable, and user-focused web applications** with clean architecture and maintainable code.
+I’m a **Full Stack Web Developer** specializing in **PHP, Javascript, WordPress, React, Next.js, and Laravel**. I build **high-performance, scalable, and user-focused web applications** with clean architecture and maintainable code.
 
 ---
 
