@@ -1,10 +1,12 @@
 # 👋 Hi, I’m Nazrul Rafi
 
-I’m a **Full Stack Web Developer** specializing in **PHP, Javascript, WordPress, React, Next.js, and Laravel**. I build **high-performance, scalable, and user-focused web applications** with clean architecture and maintainable code.
+I’m a **Full Stack Web Developer with 6+ years of professional experience**, specializing in **PHP, JavaScript, WordPress, React, Next.js, and Laravel**. I focus on building **high-performance, scalable, and user-centric web applications** with clean architecture, secure backend logic, and long-term maintainability.
+
+I have strong hands-on experience in **custom WordPress theme and plugin development**, **modern React/Next.js frontends**, and **Laravel-based backend systems**, delivering solutions that are fast, reliable, and business-ready.
 
 ---
 
-## 🚀 What I Do
+## 🚀 My hands on expertise
 
 * Build **modern, responsive frontends** with React and Next.js that provide smooth user experiences
 * Develop **full-stack applications** integrating frontend with APIs and databases
@@ -43,18 +45,6 @@ I’m a **Full Stack Web Developer** specializing in **PHP, Javascript, WordPres
 
 ---
 
-## 💼 Experience & Expertise
-
-* Custom WordPress themes with focus on **performance, SEO, and scalability**
-* Custom plugins and **REST API integration**
-* Headless WordPress architecture using **React / Next.js**
-* Advanced page builder solutions with **custom widgets** for Elementor, Divi, WPBakery
-* WooCommerce development, customization, and **secure payment gateway integration**
-* Advanced Custom Fields (ACF) for dynamic content management
-* WordPress **speed optimization, database cleanup, and security hardening**
-* Pixel-perfect conversion from **PSD / HTML / XD / Figma** to WordPress themes or page builders
-
----
 
 ## 🎯 Career Goal
 
